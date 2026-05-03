@@ -1,5 +1,5 @@
 // AutopilotConfig.reds
-// 自动驾驶优化 Mod – 配置常量与用户设置
+// 自动驾驶优化 Mod
 // Autopilot Optimization Mod – Configuration constants and user-tunable settings
 
 module AutopilotOptimization
