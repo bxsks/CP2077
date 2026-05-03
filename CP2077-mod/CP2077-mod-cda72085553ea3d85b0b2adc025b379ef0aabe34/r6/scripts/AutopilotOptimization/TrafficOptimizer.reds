@@ -1,5 +1,5 @@
 // TrafficOptimizer.reds
-// 自动驾驶优化 Mod – 交通感知与自适应速度控制
+// 自动驾驶优化 Mod
 // Autopilot Optimization Mod – Traffic awareness and adaptive speed control
 
 module AutopilotOptimization
