@@ -1,5 +1,5 @@
 // VehicleAPIBridge.reds
-// 自动驾驶优化 Mod – 游戏API桥接层
+// 自动驾驶优化 Mod
 // Autopilot Optimization Mod – Game API bridge layer
 //
 // Defines the TrafficLightQueryResult struct and adds @addMethod extensions to
