@@ -1,5 +1,5 @@
 // AutopilotController.reds
-// 自动驾驶优化 Mod – 核心状态机与控制器
+// 自动驾驶优化 Mod
 // Autopilot Optimization Mod – Core state machine and controller
 
 module AutopilotOptimization
