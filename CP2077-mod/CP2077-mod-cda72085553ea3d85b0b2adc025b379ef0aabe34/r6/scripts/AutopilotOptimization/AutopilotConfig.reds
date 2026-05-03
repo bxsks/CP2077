@@ -18,7 +18,7 @@ public class AutopilotConfig {
     public static func MaxCruiseSpeedKph() -> Float { return 120.0 }
 
     /// Speed cap when navigating tight urban streets (km/h)
-    public static func UrbanSpeedCapKph() -> Float { return 60.0 }
+    public static func UrbanSpeedCapKph() -> Float { return 120.0 }
 
     /// Speed when approaching a waypoint within BrakingDistanceM() metres (km/h)
     public static func ApproachSpeedKph() -> Float { return 30.0 }
