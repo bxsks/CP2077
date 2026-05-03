@@ -1,0 +1,24 @@
+{
+  "name": "AutopilotOptimization",
+  "displayName": "赛博朋克2077 车辆自动驾驶优化",
+  "version": "1.0.0",
+  "gameVersion": ">=2.0.0",
+  "description": "Overhauls the vehicle autopilot AI with smooth steering interpolation, adaptive speed control, obstacle avoidance, traffic-light awareness, and automatic re-engagement after manual overrides.",
+  "authors": ["CP2077-mod contributors"],
+  "license": "MIT",
+  "website": "https://github.com/bxsks/CP2077-mod",
+  "tags": ["vehicle", "autopilot", "driving", "AI", "QoL"],
+  "dependencies": {
+    "redscript": ">=0.5.18",
+    "cyber_engine_tweaks": ">=1.32.0"
+  },
+  "redscriptFiles": [
+    "r6/scripts/AutopilotOptimization/AutopilotConfig.reds",
+    "r6/scripts/AutopilotOptimization/VehicleAPIBridge.reds",
+    "r6/scripts/AutopilotOptimization/VehicleNavigator.reds",
+    "r6/scripts/AutopilotOptimization/TrafficOptimizer.reds",
+    "r6/scripts/AutopilotOptimization/AutopilotController.reds",
+    "r6/scripts/AutopilotOptimization/AutopilotHooks.reds"
+  ],
+  "cetMod": "bin/x64/plugins/cyber_engine_tweaks/mods/AutopilotOptimization/init.lua"
+}
