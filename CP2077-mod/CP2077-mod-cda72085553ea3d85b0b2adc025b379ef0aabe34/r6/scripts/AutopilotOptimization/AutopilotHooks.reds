@@ -1,5 +1,5 @@
 // AutopilotHooks.reds
-// 自动驾驶优化 Mod – 游戏方法钩子与事件集成
+// 自动驾驶优化 Mod – 游戏方法与事件集成
 // Autopilot Optimization Mod – Game method hooks and event integration
 
 module AutopilotOptimization
