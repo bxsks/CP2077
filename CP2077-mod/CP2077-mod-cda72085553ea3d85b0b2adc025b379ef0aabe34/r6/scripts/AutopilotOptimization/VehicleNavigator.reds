@@ -1,5 +1,5 @@
 // VehicleNavigator.reds
-// 自动驾驶优化 Mod – 导航与路径跟随
+// 自动驾驶优化 Mod
 // Autopilot Optimization Mod – Navigation and waypoint path following
 
 module AutopilotOptimization
